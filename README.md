@@ -1,3 +1,6 @@
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Anjana](https://github.com/AnjanaMadu) | <a href="https://www.anjanamadu.net" target="_blank"><img src="https://komarev.com/ghpvc/?username=anjanama&amp;label=Profile%20Views&amp;color=red" alt="Profile views"></a>
+   
+
 - 👋 Hi, I’m Vinuth Dinsitha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
