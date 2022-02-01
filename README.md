@@ -1,5 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Vinuth](https://github.com/VinuthDinsitha) | <a href="https://www.anjanamadu.net" target="_blank"><img src="https://komarev.com/ghpvc/?username=anjanama&amp;label=Profile%20Views&amp;color=red" alt="Profile views"></a>
-   
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Vinuth](https://github.com/VinuthDinsitha)
 
 - 👋 Hi, I’m Vinuth Dinsitha
 - 👀 I’m interested in ...
