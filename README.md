@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Vinuth](https://github.com/VinuthDinsitha)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Vinuth](https://github.com/Vinuth-Dinsitha)
 
 👋 Hi, I’m Vinuth Dinsitha
 - 👀 I’m interested in ...
